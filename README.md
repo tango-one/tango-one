@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tango-one aka Tom Christensen
-- 👀 I’m interested in ... html, css, js, php, cms
-- 🌱 I’m frontend developer
+- 👀 I’m interested in ... html, css, js, php, cms, react, vue, angular, sql.
+- 🌱 I’m frontend developer (fullstack in waiting)
 - 💞️ I’m looking to collaborate on ... frontend development projects as a freelancer
 - 📫 How to reach me ... goto my portfolio and send me a email and I will reply ASAP!.
 
